@@ -1,0 +1,288 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1350px;
+    margin: 0 auto;
+}
+
+.headsection{
+    width:1200px;
+    height:65px;
+    background-color:darkred;
+    margin: 0 auto;
+}
+.logo{
+    padding: 10px 0px;
+    width: 150px;
+    float: left;
+}
+.logo img{
+    width: 72px;
+    height: 40px;
+    margin: 3px 8px;
+}
+.logo h1{
+    margin: -46px 88px;
+    float: left;
+    color: white;
+}
+.nav{
+    width: 846px;
+    float: left;
+}
+.nav ul li{
+    list-style: none;
+    float:left;
+    padding: 20px;
+    margin-top: -10px;
+    
+    font-size: 17px;
+    color:white;
+}
+#nav1{
+    margin-top: -17px;
+}
+.tools1{
+    color: white;
+    float: right;
+    
+    list-style: none;
+}
+
+.tools1 li{
+    float: left;
+    display: block;
+}
+
+.tools1 li i{
+    font-size: 25px;
+}
+
+.tools1 .fa {
+    
+    margin: 0px 5px;
+    cursor: pointer;
+}
+.badge{
+    position: relative;
+    top: -8px;
+    right: 17px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 11px;
+    padding: 0px 4px 0px 5px;
+    background: #fdcb46;
+    color: royalblue;
+}
+.icon{
+    font-size: 7px;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 0px 2px 0px 3px;
+    color: #68bc0f;
+    background: #68bc0f;
+    position: relative;
+    right: 20px;
+    top: 5px;
+}
+
+
+.firsttop{
+    width:1350px;
+    height:80px;
+}
+
+.firsttop h2{
+    padding: 0px 90px;
+}
+
+.content {
+    list-style: none;
+    float:right;
+    margin-top: -31px;
+    
+}
+.content li{
+    display: inline;
+    width:200px;
+    padding: 6px 3px;
+    border: 2px solid blue;
+    
+    color:blue;
+}
+#e1{
+    margin-right: 99px;
+}
+#e2{
+    margin-right: 99px;
+}
+.bg{
+    background: whitesmoke;
+    width: 1222px;
+    height: 851px;
+     margin-left: 62px;
+}
+.bgwhite{
+    background:white;
+    width: 1167px;
+    margin: 21px 27px;
+    height: 802px;
+    float: left;
+}
+.left{
+    width:180px;
+    border-right: 1px solid #8a8989;
+    padding: 0px;
+    float: left;
+    height: 801px;
+}
+.leftinfo1{
+    width:130px;
+    height: 35px;
+    margin: 23px 17px;
+    border-radius: 4px;
+    color:blue;
+    border:1px solid #9999eb;
+}
+.leftinfo2{
+    width:130px;
+    height: 35px;
+    margin: 23px 17px;
+    border-radius: 4px;
+    color:blue;
+    border:1px solid #9999eb;
+
+}
+.leftinfo3 ul{
+    list-style: none;
+    color:#C0C0C0;
+    line-height: 33px;
+}
+#l1{
+    color: blue;
+}
+.right{
+    width: 906px;
+    height: 376px;
+    margin: 93px 38px 0px 37px;
+    border: 1px solid black;
+    float: right;
+}
+.section1{
+    width: 1000px;
+}
+.section1 ul li{
+    float: left;
+    width: 100px;
+    
+    
+
+}
+#t1{
+    list-style: none;
+    font-size: 21px;
+    width:220px;
+    margin: -82px -66px;
+     float: left;
+}
+#t2{
+    list-style: none;
+   font-size: 16px;
+    margin: -82px -22px;
+   float:right;
+}
+.section2{
+    width:906px;
+}
+.section2 ul {
+    list-style: none;
+}
+#s1{
+    font-size: 20px;
+    color:#454545;
+    float:left;
+    margin: 0px -13px;
+}
+#s2{
+    float: right;
+    font-size: 20px;
+    margin: 2px 8px;
+    color: blue;
+}
+.arrow{
+    float: right;
+    margin: 2px 5px;
+    width: 26px;
+}
+/* .table{ *
+    border-collapse: collapse;
+     width: 100%; */
+/* } */
+table{
+    display: table;
+    border-collapse: collapse;
+    /* border-spacing: 2px; */
+    border-color: grey;
+    width:100%;
+}
+th, td {
+    text-align: left;
+    padding: 13px;
+  }
+  
+  tr:nth-child(odd){
+      background-color: #f2f2f2;
+    }
+  
+  th {
+    background-color:black;
+    color: white;
+  }
+  .foot1{
+    width: 378px;
+    height: 250px;
+    margin: 48px 0px 0px -1px;
+    border: 1px solid black;
+    float: left;
+
+  }
+  .arrow2{
+    height: 24px;
+    float: right;
+    margin: -33px 73px;
+  }
+  .foot1 h3{
+    margin: 11px 10px;
+  }
+  .foot1 h4{
+      float: right;
+      margin: -34px 16px 0px;
+      color:blue;
+  }
+  .foot2{
+    width:500px;
+    height: 250px;
+    margin: 48px 0px 0px -1px;
+    border: 1px solid black;
+    float:right;
+
+  }
+  .foot2 h3{
+    margin: 13px 12px;
+  }
+  .arrow3{
+    height: 26px;
+    float: right;
+    margin: -34px 73px;
+  }
+  .foot2 h4{
+      float: right;
+      margin: -28px 14px;
+    color: blue;
+  }
+  .foot3 img {
+    width: 481px;
+  }
+ 
